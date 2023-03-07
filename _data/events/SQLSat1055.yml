@@ -7,15 +7,17 @@ virtual: false
 physical: true
 hybrid: false
 description: |
-  <p>SQL Saturday Cleveland returns in person in May for a free one-day training conference for database professionals.</p>
+  <p>
+  SQL Saturday Ohio North 2023 (formally SQL Saturday Cleveland) returns live and in person on May 20th, 2023 for a free one-day training conference for data platform professionals.  Ohio North Database Training (ondt.org) is thrilled and delighted to come back and host this great local event for the community once again.  We will be hosting sesssions in the database development, performance tuning, business analytics / intelligence, and Azure content space.   
+  </p>
 
-eventlocation: 
+eventlocation: Bounce Innovation Hub - 526 S Main St, Akron, OH 44311
 
-eventlocationurl: 
+eventlocationurl: https://bouncehub.org/
 
 officialwebsite: 
 registrationurl: 
-capacity: 
+capacity: 150 attendees
 googlemapurl: 
 
 scheduleurl: 
