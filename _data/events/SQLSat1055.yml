@@ -1,63 +1,58 @@
-name: "SQL Saturday Cleveland 2023"
-primarytag: "cleveland"
+name: "SQL Ohio North 2023"
+primarytag: "Clevelandd"
 logo: 
 logocredit: 
-date: 2023-05-20 09:00:00 -0500
+date: 2023-05-20 08:00:00 -0500
 virtual: false
 physical: true
 hybrid: false
 description: |
-  <p>SQL Saturday Cleveland returns in person in May for a free one-day training conference for database professionals.</p>
+  <p>SQL Saturday Ohio North (previous SQL Saturday Cleveland) returns for the first time since Feb 2020
+  for an in person event on  May 20th  for a free day of training for data platform professionals.  </p>
 
-eventlocation: 
-
-eventlocationurl: 
-
-officialwebsite: 
-registrationurl: 
-capacity: 
+eventlocation:
+Bounce Innovation Hub - 526 S Main St, Akron, OH 44311
+<br>
+eventlocationurl:
+<br>
+https://bouncehub.org/
+<br>
+officialwebsite: https://www.eventbrite.com/e/ohio-north-sql-saturday-2023-tickets-576379305017
+<br>
+registrationurl: https://www.eventbrite.com/e/ohio-north-sql-saturday-2023-tickets-576379305017
+capacity: 150
 googlemapurl: 
 
 scheduleurl: 
 scheduletimezone: Eastern Standard Time UTC -5
-schedulehtml: |
 
-eventcountdown: false
-
-countdownscript:
  
-speakertext: The call for speakers is not yet open..
+speakertext: Call for speakers is closed, we will announce the schedule soon.
 speakerlisturl: 
-callforspeakersurl: 
-callforspeakers:  false
-callforspeakersenddate: 
+callforspeakersurl: https://sessionize.com/ohio-north-sql-saturday-2023
+callforspeakers:  True
+callforspeakersenddate: April 3, 2023
 
 organizers:
   - name: "Ohio North Database Training group"
-    twitter: 
+    twitter: https://twitter.com/onssug
     email: 
-    url: 
+    url: https://ondt.org/
+    url: https://www.meetup.com/ohio-north-database-training/
+    
+    
 
 volunteers:
   description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
-  volunteerurl:
+  volunteerurl: email info@ondt.org
 
 social:
-  twitter: 
-  youtube: 
-  linkedin: https://www.linkedin.com/company/passmn/
-  instagram: 
-  tiktok: 
-  pinterest: 
-
-sponsorscontacturl: 
-sponsors:
-  - link: https://www.microsoft.com
-    type: Platinum
-    image: /assets/img/logos/Microsoft-logo_rgb_c-gray.png
-    width: 948
-    height: 255  
-
-
+  twitter: https://twitter.com/onssug
+    linkedin: https://www.linkedin.com/company/passmn/
+  
+sponsorscontacturl: If you are interested in sponsoring please email us at info@ondt.org
+<br>
 sponsorplan:
-    <p>Coming Soon</p>
+    <p>We have simplied the offering for our return to an event. We will offer a single plan at 500$ per table. 
+    The plan will include a table, power, raffle giveaway.
+    </p>
